@@ -1,3 +1,4 @@
+![Uploading dashboard img-1.png…]()
 # Guru_E-Commerce_Sales_Dashboard-PowerBi
 ### What is Power BI?
 Power BI is a Business Intelligence & Data Visualization tool that converts data from various data sources into interactive dashboards and analysis reports.
